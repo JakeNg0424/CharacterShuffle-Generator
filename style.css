@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+  }
+  #button-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin-top: 50px;*/
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 476px;
+    border: 2px solid #EDD9A3;
+  }
+  
+  button {
+    /*background-color: #304A5B;*/
+    background-color: black;
+    border: 5px inset #BEAC83;
+    
+    width: 125px;
+    height: 50px;
+    
+    text-align: center;
+    color: #BEAC83;
+    font-size: 38px;
+    font-family: Monaco, Cambria, sans-serif;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    color: rgb(106,96,73);
+    border: 5px solid rgb(106,96,73);
+  }
+  
+  button:active {
+    color: rgb(106,96,73);
+    border: 5px solid rgb(106,96,73);
+    transform: translateY(4px);
+  }
