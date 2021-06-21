@@ -1,2 +1,8 @@
-# CharacterShuffle-Generator
- A simple character generator that randomizes fixed inputs that generates thousands upon thousands of unique variations.
+# Character Shuffle
+
+![](assets/result.gif)
+
+The generator shuffles between each assets, *handcrafted* via Adobe Illustrator with a pixel theme.
+- 4,032 unique name generations
+- 31,680 unique character generations (11 * 8 * 8 * 15 * 3)
+- 43 different assets
